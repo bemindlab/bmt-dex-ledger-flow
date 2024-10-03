@@ -16,10 +16,10 @@ DexLedgerFlow is a decentralized crypto trading accounting platform focused on s
 
 The platform’s native token, **DLF Token**, is integral to the ecosystem:
 
-- **Payment for Services**: Pay for premium features and services using [Token Name].
+- **Payment for Services**: Pay for premium features and services using DLF Token.
 - **Staking**: Stake tokens to unlock advanced features and analytics.
 - **Governance**: Participate in platform governance decisions.
-- **Discounts**: Get discounts on services when paying with [Token Name].
+- **Discounts**: Get discounts on services when paying with DLF Token.
 
 ## Support Our Project
 
@@ -31,7 +31,7 @@ If you find our project valuable and would like to contribute to its continued d
 - **Ethereum (ETH)**: `0xCB38008b5859994FD7b64ab2aDAC5696c1e68D2e`
 - **Binance (BNB)**: `0xCB38008b5859994FD7b64ab2aDAC5696c1e68D2e`
 
-Every contribution, no matter the size, helps us bring new features and improvements to the platform. Thank you for supporting [Project Name] and being part of our journey to revolutionize crypto trading accounting!
+Every contribution, no matter the size, helps us bring new features and improvements to the platform. Thank you for supporting DexLedgerFlow and being part of our journey to revolutionize crypto trading accounting!
 
 If you have any questions or need assistance, feel free to reach out to us at: `info@bemind.tech`.
 

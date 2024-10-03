@@ -126,4 +126,4 @@ Join us in revolutionizing crypto accounting with DexLedgerFlow and become part 
 
 ## Contact
 
-For more information about DexLedgerFlow or to participate in our token sale, visit our website at [dexledgerflow.bemind.tech](https://dexledgerflow.bemind.tech) or reach out to us at **info@bemind.tech**.
+For more information about DexLedgerFlow or to participate in our token sale, visit our website at [dlf.bemind.tech](https://dlf.bemind.tech) or reach out to us at **info@bemind.tech**.
