@@ -33,7 +33,7 @@ If you find our project valuable and would like to contribute to its continued d
 
 Every contribution, no matter the size, helps us bring new features and improvements to the platform. Thank you for supporting [Project Name] and being part of our journey to revolutionize crypto trading accounting!
 
-If you have any questions or need assistance, feel free to reach out to us at: `support@projectname.com`.
+If you have any questions or need assistance, feel free to reach out to us at: `info@bemind.tech`.
 
 ### Why Donate?
 
