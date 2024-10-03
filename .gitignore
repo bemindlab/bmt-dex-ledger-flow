@@ -1,0 +1,13 @@
+node_modules/
+typechain/
+deployments/localhost
+deployments/*/solcInputs/
+artifacts/
+cache
+coverage.json
+coverage
+bin/
+
+.env
+.DS_Store
+
